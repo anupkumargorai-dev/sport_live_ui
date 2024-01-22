@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cricket Live</string>
+    <string name="fixtures">FIXTURES</string>
+    <string name="results">RESULTS</string>
+    <string name="sat_16th_dec_2023_22_30_00_ist">Sat, 16th Dec 2023 | 22:30:00 IST</string>
+    <string name="india_tour_of_south_africa_2023_24">India tour of South Africa, 2023-24</string>
+    <string name="india">IND</string>
+    <string name="_14_5_over">14.5 Over</string>
+    <string name="south_africa">SA</string>
+    <string name="_10_over">10 Over</string>
+    <string name="_165_6">165/6</string>
+    <string name="demo_text">Suryakumar Yadav equals all-time T20I record with century against South Africa :  ICC</string>
+    <string name="advertise_with_us">Advertise with us</string>
+    <string name="advertise_with_us_disc">Fast Live Line, LLC isIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="privacy_and_policy">Privacy and Policy</string>
+    <string name="_2023_fast_live_line_llc">© 2023 Fast Live Line, LLC</string>
+    <string name="_4th_match_cch_vs_kht">4th Match, CCH vs KHT</string>
+</resources>

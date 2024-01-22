@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_btn">#5B96E4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="base_color">#0D1635</color>
+    <color name="detail_screen_appbar">#002F7C</color>
+    <color name="secondary_color">#19223F</color>
+    <color name="text_color">#0D1533</color>
+    <color name="text_color_2">#C1BBBB</color>
+</resources>
